@@ -43,7 +43,7 @@
     "vue-template-compiler": "^2.6.14"
   },
   "dependencies": {
-    "auto-launch": "^5.0.5",
+    "auto-launch": "^5.0.6",
     "got": "^9.6.0",
     "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2",
